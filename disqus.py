@@ -1,3 +1,5 @@
+# curtesy to Tony Fast 
+# http://nbviewer.ipython.org/gist/anonymous/ea1890bc3c08a26c2bd4
 from jinja2 import Template
 from IPython.display import (
     display,
